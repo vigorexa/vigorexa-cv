@@ -2,7 +2,7 @@
 
 Стартовый шаблон для Laravel-проектов: базовый Docker-образ, локальный Laravel Sail, модульная структура, авторизация, Filament, production-ready стеки и GitLab CI в одном репозитории.
 
-**Репозиторий:** https://github.com/vigorexa/laravel-sail-template
+**Репозиторий:** https://github.com/vigorexa/laravel-sail-template/readme.md
 
 Спроектировал и разработал шаблон с нуля для ускорения повторяющихся этапов в разработке: установка и конфигурация базовых пакетов, разработка процесса авторизации, деплой.
 Большой упор делал на соблюдение [Twelve-Factor](https://12factor.net/ru/) прямо из шаблона. 
@@ -14,7 +14,7 @@
 А также .stub файлы, AI скиллы и правила для генерации [Laravel JSON:API](https://laraveljsonapi.io/) схем.
 
 Этот файл - краткое человекопонятное описание шаблона исключительно для портфолио. 
-Более подробно написано в `../../../readme.md` репозитория 
+Более подробно написано в [readme.md](https://github.com/vigorexa/laravel-sail-template/blob/main/readme.md) репозитория 
 
 ---
 
