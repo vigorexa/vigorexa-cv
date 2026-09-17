@@ -121,7 +121,7 @@ MySQL - один общий стек на всю платформу, но баз
 
 ### Схема приложения
 
-![Все сервисы приложения](recourses/learning-platform/learning_platform-service_schema.png)
+![Все сервисы приложения](recourses/learning-platform/learning_platform-service_schema.drawio.png)
 
 ---
 
