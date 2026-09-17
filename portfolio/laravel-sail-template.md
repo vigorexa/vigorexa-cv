@@ -28,14 +28,14 @@
     - [`laravel/boost`](https://laravel.com/docs/12.x/boost). Написаны кастомные скиллы.
     - А также [`laravel/horizon`](https://laravel.com/docs/12.x/horizon), [`laravel/telescope`](https://laravel.com/docs/12.x/telescope)
 - Созданы docker-compose файлы инфраструктуры и приложения для деплоя проекта на удаленный сервер.
-- Добавлен `../../../project.gitlab-ci.yml` с lint > build > test > deploy стадиями для develop и prod окружений.
+- Добавлен `project.gitlab-ci.yml` с lint > build > test > deploy стадиями для develop и prod окружений.
 - Модуль AccessControl с базовым управлением Пользователями, Ролями и Правами. Основа: [spatie/laravel-permission](https://spatie.be/docs/laravel-permission/v7)
 
 ---
 
 ## Разработка
 
-Для локальной разработки используется `laravel/sail`. `../../../docker-compose.yml` поднимает приложение, PostgreSQL 17, KeyDB и Mailpit. 
+Для локальной разработки используется `laravel/sail`. `docker-compose.yml` поднимает приложение, PostgreSQL 17, KeyDB и Mailpit. 
 Образ собирается из `./docker/laravel/Dockerfile`, базовый слой — [`vigorexa/laravel-sail-core`](https://hub.docker.com/r/vigorexa/laravel-sail-core) на Alpine.
 
 Скрипты упрощающие локальную разработку расположены в Makefile
@@ -61,7 +61,7 @@
 
 Каталог `deployment/` — набор Swarm-стеков, которые поднимаются независимо: Traefik, PostgreSQL (+ pgAdmin и exporter), KeyDB, Mailpit, RustFS (S3), monitoring (Prometheus, Grafana, Loki, OTEL, Alloy, cAdvisor), само приложение (Octane, Horizon, cron).
 
-Один родительский `deployment/.env`; для каждого стека `sh-process-env.sh` подставляет переменные в `../../../.env.example` сервиса, `sh-process-compose-file.sh` готовит compose под `docker stack deploy`. 
+Один родительский `deployment/.env`; для каждого стека `sh-process-env.sh` подставляет переменные в `.env.example` сервиса, `sh-process-compose-file.sh` готовит compose под `docker stack deploy`. 
 Стеки разнесены, взаимодействуют через docker сети.
 
 Сборка образа laravel разделена на development и production target'ы. Dev зависимости не передаются в production. 
@@ -69,7 +69,7 @@
 
 ### CI/CD
 
-`../../../project.gitlab-ci.yml` копируется в `.gitlab-ci.yml` с заполнением объявленных переменных. 
+`project.gitlab-ci.yml` копируется в `.gitlab-ci.yml` с заполнением объявленных переменных. 
 После этого пайплайн полностью готов.
 
 Настроен для триггеров: merge-request, push в master или production ветки. И состоит из стадий:
