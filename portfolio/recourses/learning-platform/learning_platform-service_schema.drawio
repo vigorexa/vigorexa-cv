@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="iJll3TzhFDcH8SSHZC_1">
-    <mxGraphModel dx="3503" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6400" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="11385" dy="7520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6400" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WAkI5s7D6B0PMAH_ofSw-26" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Разработчик" vertex="1">
+        <mxCell id="WAkI5s7D6B0PMAH_ofSw-26" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Developer" vertex="1">
           <mxGeometry height="60" width="30" x="480" y="1470" as="geometry" />
         </mxCell>
         <mxCell id="WAkI5s7D6B0PMAH_ofSw-79" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="Gateway&amp;nbsp;Services" vertex="1">
