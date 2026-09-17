@@ -49,6 +49,8 @@ Real-time - Laravel Reverb, кеш и очереди Horizon - KeyDB, поиск
 
 Портал готов и несколько раз проходил процедуру горизонтального масштабирования под ключевые лимитированные события.
 
+Все новые сервисы для этого проекта создаются из форка шаблона про который я рассказываю в [./laravel-sail-template.md](https://github.com/vigorexa/vigorexa-cv/blob/main/portfolio/laravel-sail-template.md)
+
 ### Api Gateway
 
 **API Gateway для frontend-приложения.**
