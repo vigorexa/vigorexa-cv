@@ -106,7 +106,7 @@ Postman мне всегда нравился тем что объединяет 
 
 **Для команды сделал базовый шаблон проектов.** 
 В первую очередь, для удобства и стандартизации лучших практик в разработке. Активно собираю фидбэк и принимаю MR от коллег. 
-Подробнее о самом шаблоне я написал тут: [./learning-platform.md](https://github.com/vigorexa/vigorexa-cv/blob/main/portfolio/laravel-sail-template.md)
+Подробнее о самом шаблоне я написал тут: [./laravel-sail-template.md](https://github.com/vigorexa/vigorexa-cv/blob/main/portfolio/laravel-sail-template.md)
 
 **Создал Jira доску с задачами по окружениям.** 
 У менеджмента часто возникал вопрос, в каком окружении (dev, stage или prod) задача. А отдел QA не видел задачи на тестирование.
