@@ -13,7 +13,7 @@
 Форк шаблона внутри компании также содержит методы аутентификации через Password провайдер пакета `laravel/passport`. 
 А также .stub файлы, AI скиллы и правила для генерации [Laravel JSON:API](https://laraveljsonapi.io/) схем.
 
-Новые микросервисы моего самого большого проекта, про который я рассказываю в https://github.com/vigorexa/vigorexa-cv/blob/main/portfolio/learning-platform.md, также создаются из своего форка этого шаблона.
+Новые микросервисы моего самого большого проекта, про который я рассказываю в [./learning-platform.md](https://github.com/vigorexa/vigorexa-cv/blob/main/portfolio/learning-platform.md), также создаются из своего форка этого шаблона.
 
 Этот файл - краткое человекопонятное описание шаблона исключительно для портфолио. 
 Более подробно написано в [readme.md](https://github.com/vigorexa/laravel-sail-template/blob/main/readme.md) репозитория 
