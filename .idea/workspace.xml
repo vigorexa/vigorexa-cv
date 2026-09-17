@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7df3e5c9-c05b-4071-95f4-5fed442cd257" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/app-modules/AccessControl/composer.json" />
+      <option value="$PROJECT_DIR$/app-modules/CurriculumVitae/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <execution>
+        <execution>
+          <execution>
+            <execution>
+              <execution>
+                <execution>
+                  <execution>
+                    <execution>
+                      <execution>
+                        <execution />
+                      </execution>
+                    </execution>
+                  </execution>
+                </execution>
+              </execution>
+            </execution>
+          </execution>
+        </execution>
+      </execution>
+    </execution>
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="f65cb0ff-cae7-4c18-a7bf-b14515658c96" value="" />
+    </colors>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands>
+      <McpServerConfigurationProperties>
+        <option name="allowedToolsNames" />
+        <option name="enabled" value="true" />
+        <option name="name" value="laravel-boost" />
+        <option name="source" value="PLUGIN" />
+        <option name="userOverride" value="false" />
+      </McpServerConfigurationProperties>
+    </commands>
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0010686461926375" />
+      <entry key="MS500" value="1.2545462999411552" />
+      <entry key="S2" value="1.7103049754450144" />
+      <entry key="S5" value="1.882385066889524" />
+      <entry key="S10" value="2.378068936629616" />
+      <entry key="S30" value="12.856712722838722" />
+      <entry key="S60" value="28.48885552074161" />
+      <entry key="M2" value="47.71606739326334" />
+      <entry key="M5" value="88.61386122644974" />
+      <entry key="M10" value="174.06299608876955" />
+      <entry key="M15" value="268.23418035020757" />
+      <entry key="M30" value="514.9146055480929" />
+      <entry key="H1" value="822.7501750918465" />
+      <entry key="H2" value="1095.8032811543685" />
+      <entry key="H4" value="1284.3342157575978" />
+      <entry key="D1" value="2003.1844722966578" />
+      <entry key="W1" value="13425.826627602535" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="8.843700466540102E-216" />
+      <entry key="M15" value="4.276508600943277E-144" />
+      <entry key="M30" value="2.0679720986860514E-72" />
+      <entry key="H1" value="1.4380450043298307E-36" />
+      <entry key="H2" value="1.199866451911563E-18" />
+      <entry key="H4" value="1.121183462919758E-9" />
+      <entry key="D1" value="0.053690507114265075" />
+      <entry key="W1" value="9.610356887929647" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9085231727260047" />
+      <entry key="MS500" value="1.2321691490881683" />
+      <entry key="S2" value="1.7032525871573088" />
+      <entry key="S5" value="1.8793449030301022" />
+      <entry key="S10" value="2.3763717979139782" />
+      <entry key="S30" value="12.855319714078377" />
+      <entry key="S60" value="28.487475155093676" />
+      <entry key="M2" value="47.714784769849445" />
+      <entry key="M5" value="88.61268716706351" />
+      <entry key="M10" value="174.0618125508436" />
+      <entry key="M15" value="268.2329629599157" />
+      <entry key="M30" value="514.9133328092104" />
+      <entry key="H1" value="822.7490210535277" />
+      <entry key="H2" value="1095.8024409145023" />
+      <entry key="H4" value="1284.3336980996714" />
+      <entry key="D1" value="2003.2380160641217" />
+      <entry key="W1" value="13435.436860603955" />
+    </decayedShown>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Docker">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php84" />
+      <path value="$PROJECT_DIR$/vendor/laravel/roster" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/mcp" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php82" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php85" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/larastan/larastan" />
+      <path value="$PROJECT_DIR$/vendor/livewire/blaze" />
+      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/vendor/iamcal/sql-parser" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/vendor/league/config" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/staabm/side-effects-detector" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/uri-interfaces" />
+      <path value="$PROJECT_DIR$/vendor/league/uri" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/pail" />
+      <path value="$PROJECT_DIR$/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/laravel/agent-detector" />
+      <path value="$PROJECT_DIR$/vendor/laravel/prompts" />
+      <path value="$PROJECT_DIR$/vendor/laravel/pao" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/laravel/boost" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php86" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/filament/tables" />
+      <path value="$PROJECT_DIR$/vendor/filament/actions" />
+      <path value="$PROJECT_DIR$/vendor/filament/support" />
+      <path value="$PROJECT_DIR$/vendor/filament/notifications" />
+      <path value="$PROJECT_DIR$/vendor/filament/query-builder" />
+      <path value="$PROJECT_DIR$/vendor/filament/infolists" />
+      <path value="$PROJECT_DIR$/vendor/filament/forms" />
+      <path value="$PROJECT_DIR$/vendor/filament/filament" />
+      <path value="$PROJECT_DIR$/vendor/filament/schemas" />
+      <path value="$PROJECT_DIR$/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/vendor/danharrin/livewire-rate-limiting" />
+      <path value="$PROJECT_DIR$/vendor/danharrin/date-format-converter" />
+      <path value="$PROJECT_DIR$/vendor/filament/widgets" />
+      <path value="$PROJECT_DIR$/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/openspout/openspout" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/anourvalar/eloquent-serialize" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/composer-merge-plugin" />
+      <path value="$PROJECT_DIR$/vendor/chillerlan/php-settings-container" />
+      <path value="$PROJECT_DIR$/vendor/chillerlan/php-qrcode" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/blade-ui-kit/blade-icons" />
+      <path value="$PROJECT_DIR$/vendor/ueberdosis/tiptap-php" />
+      <path value="$PROJECT_DIR$/vendor/kirschbaum-development/eloquent-power-joins" />
+      <path value="$PROJECT_DIR$/vendor/blade-ui-kit/blade-heroicons" />
+      <path value="$PROJECT_DIR$/vendor/ryangjchandler/blade-capture-directive" />
+      <path value="$PROJECT_DIR$/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/vendor/league/uri-components" />
+      <path value="$PROJECT_DIR$/vendor/nette/php-generator" />
+      <path value="$PROJECT_DIR$/vendor/league/csv" />
+      <path value="$PROJECT_DIR$/vendor/sentry/sentry" />
+      <path value="$PROJECT_DIR$/vendor/sentry/sentry-laravel" />
+      <path value="$PROJECT_DIR$/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-package-tools" />
+      <path value="$PROJECT_DIR$/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/spatie/invade" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-permission" />
+      <path value="$PROJECT_DIR$/vendor/spatie/error-solutions" />
+      <path value="$PROJECT_DIR$/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/vendor/spatie/shiki-php" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sentinel" />
+      <path value="$PROJECT_DIR$/vendor/laravel/octane" />
+      <path value="$PROJECT_DIR$/vendor/laravel/horizon" />
+      <path value="$PROJECT_DIR$/vendor/nwidart/laravel-modules" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/vendor/symfony/html-sanitizer" />
+      <path value="$PROJECT_DIR$/vendor/_laravel_idea" />
+      <path value="$PROJECT_DIR$/vendor/spatie/image-optimizer" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/vendor/filament/spatie-laravel-media-library-plugin" />
+      <path value="$PROJECT_DIR$/vendor/spatie/image" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-medialibrary" />
+      <path value="$PROJECT_DIR$/vendor/spatie/temporary-directory" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3IDy4ZxJDXmuncZYIAmV55vRhAX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.laravel_idea.move_run_console_settings": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/vigorexa/Projects/vigorexa-cv/docs/tmp/portfolio/learning-platform",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "php.override.implement.member.chooser.php.doc": "NONE",
+    "settings.editor.selected.configurable": "Settings.Markdown"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/tmp/portfolio/learning-platform" />
+      <recent name="$PROJECT_DIR$/docs/portfolio" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/tmp/portfolio" />
+      <recent name="$PROJECT_DIR$/docs/tmp/portfolio/recourses/learning-platform" />
+      <recent name="$PROJECT_DIR$/docs/tmp/portfolio/learning-platform" />
+      <recent name="$PROJECT_DIR$/docs/tmp" />
+      <recent name="$PROJECT_DIR$/docs/cv-files" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PS-262.10315.130" />
+        <option value="bundled-php-predefined-a98d8de5180a-9522f28f0b20-com.jetbrains.php.sharedIndexes-PS-262.10315.130" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7df3e5c9-c05b-4071-95f4-5fed442cd257" name="Changes" comment="" />
+      <created>1787313242143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787313242143</updated>
+      <workItem from="1787313417738" duration="4422000" />
+      <workItem from="1787394072542" duration="72000" />
+      <workItem from="1787394155579" duration="144789000" />
+      <workItem from="1788521417831" duration="9078000" />
+      <workItem from="1789213291325" duration="67291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
