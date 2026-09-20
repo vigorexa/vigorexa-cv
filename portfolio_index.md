@@ -2,7 +2,7 @@
 
 Senior Backend Developer / Lead Backend Developer. Разрабатываю и развиваю PHP/Laravel-сервисы, проектирую архитектуру, настраиваю инфраструктуру и CI/CD, руковожу backend-командами.
 
-[Резюме](vigorexa_cv.md) · [GitHub](https://github.com/vigorexa) · [Email](mailto:vigorexa.job@proton.me) · [Telegram](https://t.me/vigorexa)
+[Резюме](https://github.com/vigorexa/vigorexa-cv) · [GitHub](https://github.com/vigorexa) · [Email](mailto:vigorexa.job@proton.me) · [Telegram](https://t.me/vigorexa)
 
 ## Подробные кейсы
 
