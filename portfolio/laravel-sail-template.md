@@ -21,7 +21,7 @@
 ---
 
 ## Основные изменения
-- Сборка основана на Laravel Sail — [документация](https://laravel.com/docs/12.x/sail). Базовый образ приложения: [`vigorexa/laravel-sail-core:php85-alpine-slim-latest`](https://hub.docker.com/r/vigorexa/laravel-sail-core)
+- Сборка основана на Laravel Sail - [документация](https://laravel.com/docs/12.x/sail). Базовый образ приложения: [`vigorexa/laravel-sail-core:php85-alpine-slim-latest`](https://hub.docker.com/r/vigorexa/laravel-sail-core)
 - Предустановлен фреймворк для создания админ панелей Filament [https://filamentphp.com/docs](https://filamentphp.com/docs/4.x/panels/installation)
 - Предустановлена система модулей [`nwidart/laravel-modules`](https://laravelmodules.com/docs/13) с кастомной конфигурацией и stub файлами.
 - Предустановлены базовые пакеты:
@@ -38,7 +38,7 @@
 ## Разработка
 
 Для локальной разработки используется `laravel/sail`. `docker-compose.yml` поднимает приложение, PostgreSQL 17, KeyDB и Mailpit. 
-Образ собирается из `./docker/laravel/Dockerfile`, базовый слой — [`vigorexa/laravel-sail-core`](https://hub.docker.com/r/vigorexa/laravel-sail-core) на Alpine.
+Образ собирается из `./docker/laravel/Dockerfile`, базовый слой - [`vigorexa/laravel-sail-core`](https://hub.docker.com/r/vigorexa/laravel-sail-core) на Alpine.
 
 Скрипты упрощающие локальную разработку расположены в Makefile
 
@@ -61,7 +61,7 @@
 
 ## Инфраструктура и деплой
 
-Каталог `deployment/` — набор Swarm-стеков, которые поднимаются независимо: Traefik, PostgreSQL (+ pgAdmin и exporter), KeyDB, Mailpit, RustFS (S3), monitoring (Prometheus, Grafana, Loki, OTEL, Alloy, cAdvisor), само приложение (Octane, Horizon, cron).
+Каталог `deployment/` - набор Swarm-стеков, которые поднимаются независимо: Traefik, PostgreSQL (+ pgAdmin и exporter), KeyDB, Mailpit, RustFS (S3), monitoring (Prometheus, Grafana, Loki, OTEL, Alloy, cAdvisor), само приложение (Octane, Horizon, cron).
 
 Один родительский `deployment/.env`; для каждого стека `sh-process-env.sh` подставляет переменные в `.env.example` сервиса, `sh-process-compose-file.sh` готовит compose под `docker stack deploy`. 
 Стеки разнесены, взаимодействуют через docker сети.
