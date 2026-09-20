@@ -1,1 +1,0 @@
-# vigorexa-cv
