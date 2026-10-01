@@ -4,7 +4,7 @@
 
 Удалённо | Полная занятость | Готов к командировкам
 
-[vigorexa.job@proton.me](mailto:vigorexa.job@proton.me) | Telegram: [@vigorexa](https://t.me/vigorexa) | [GitHub](https://github.com/vigorexa) | [Портфолио](https://github.com/vigorexa/vigorexa-cv/blob/main/portfolio_index.md) | [В формате .pdf](https://github.com/vigorexa/vigorexa-cv/blob/main/vigorexa-cv.pdf)
+[vigorexa.job@proton.me](mailto:vigorexa.job@proton.me) | [GitHub](https://github.com/vigorexa) | [Портфолио](https://github.com/vigorexa/vigorexa-cv/blob/main/portfolio_index.md) | [В формате .pdf](https://github.com/vigorexa/vigorexa-cv/blob/main/vigorexa-cv.pdf)
 
 ---
 
