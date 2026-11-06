@@ -1,6 +1,6 @@
 # Игорь Власов
 
-**Senior Backend Developer - PHP | Laravel**
+**Backend Developer | PHP, Laravel**
 
 Удалённо | Полная занятость | Готов к командировкам
 
@@ -10,7 +10,7 @@
 
 ## О себе
 
-Senior Backend Developer с 6+ годами опыта разработки на PHP и Laravel.
+Backend Developer с шестилетним опытом разработки на PHP и Laravel.
 С 2024 года совмещаю разработку, архитектурное проектирование и техническое лидерство: управляю backend-командой до 6 человек, участвую в создании и развитии микросервисных систем.
 Проектирую REST API, асинхронные интеграции, поиск и хранение данных; настраиваю Docker-инфраструктуру, CI/CD, мониторинг и автотесты.
 
@@ -27,19 +27,19 @@ Senior Backend Developer с 6+ годами опыта разработки на
 
 ---
 
-## Опыт работы - > 6 лет 3 месяцев
+## Опыт работы - > 6 лет 6 месяцев
 
 ### АЙNET | [inetstudio.ru](https://inetstudio.ru/) | FullRemote
 
-#### Senior Backend Developer | PHP, Laravel
+#### Backend Developer | PHP, Laravel; Go
 
-*Март 2024 - настоящее время | > 2 лет 7 месяцев*
+*Март 2024 - настоящее время | > 2 лет 8 месяцев*
 
 **Обучающая платформа с мотивационной программой** | ~300k MAU; 450+ RPS в пике; 12 микросервисов
 | [В Портфолио](https://github.com/vigorexa/vigorexa-cv/blob/main/portfolio/learning-platform.md)
-- Руководил backend-разработкой: спроектировал микросервисную архитектуру, участвовал в разработке от ТЗ до production.
+- Руководил backend-разработкой: спроектировал микросервисную архитектуру с нуля, участвовал в разработке от ТЗ до production.
 - Настроил инфраструктуру и CI/CD на Docker Swarm, Traefik и GitLab CI/CD; сократил время деплоя с 20 до 5 минут и размер образа с 1 ГБ до 500 МБ.
-- Внедрил Laravel Octane/Swoole и KeyDB; после этого нагрузочным тестированием подтвердил 300 RPS в базовой конфигурации.
+- Внедрил Laravel Octane/Swoole и KeyDB; после этого нагрузочным тестированием подтвердил 300 RPS в базовой конфигурации сервера.
 - Переработал оформление заказов: реализовал сагу с последовательной обработкой, проверкой остатков и компенсациями, устранив гонки складского учёта; через схему прошло 200k+ успешных доставок.
 - Перенёс около 1 ТБ медиа в MinIO S3, сделав контейнеры stateless и доступными для горизонтального масштабирования.
 - Организовал мониторинг и алертинг на базе Grafana, Prometheus, Loki, Sentry и Zabbix; участвовал в разборе инцидентов и подготовке postmortem.
@@ -49,7 +49,7 @@ Senior Backend Developer с 6+ годами опыта разработки на
 | [В Портфолио](https://github.com/vigorexa/vigorexa-cv/blob/main/portfolio/teamlead.md)
 - Планировал спринты, декомпозировал и оценивал задачи, проводил архитектурные встречи, 1:1 и ревью кода.
 - Провёл 15 технических собеседований в двух циклах найма, проверял тестовые задания и организовал адаптацию четырёх разработчиков.
-- Выстроил взаимодействие команды с QA, frontend, DevOps, менеджментом и заказчиком; внедрил кросс-ревью кода и прозрачный workflow задач.
+- Выстроил взаимодействие команды с QA, Frontend, DevOps, менеджментом и заказчиком; внедрил кросс-ревью кода и прозрачный workflow задач.
 
 **А также:**
 - Разработка стартового шаблона для Laravel-проектов. Подробнее [в Портфолио](https://github.com/vigorexa/vigorexa-cv/blob/main/portfolio/laravel-sail-template.md)
@@ -58,7 +58,7 @@ Senior Backend Developer с 6+ годами опыта разработки на
 - Composer-пакеты: экспорт данных, авторизация через корпоративный Identity Manager, SDK для внутреннего сервиса.
 - RAG для внутренних регламентов и документов компании с MCP для подключения собственных AI-агентов.
 
-#### Middle Backend Developer | PHP, Laravel
+#### Backend Developer | PHP, Laravel
 
 *Апрель 2023 - Март 2024 | 1 год*
 
@@ -78,7 +78,7 @@ Senior Backend Developer с 6+ годами опыта разработки на
 
 ### Upstream | Office
 
-#### Junior/Middle Backend Developer | PHP, Laravel
+#### Backend Developer | PHP, Laravel
 
 *Май 2021 - Апрель 2023 | 2 года*
 
@@ -107,9 +107,9 @@ Senior Backend Developer с 6+ годами опыта разработки на
 
 ### Digital Clouds | [dclouds.ru](https://dclouds.ru/) | Office
 
-#### Junior Fullstack Developer | PHP, Laravel; JavaScript, VueJS
+#### Fullstack Developer | PHP, Laravel; JS, VueJS
 
-*Февраль 2020 - Ноябрь 2020 | 10 месяцев*
+*Февраль 2020 - Январь 2021 | 1 год*
 
 **Сервис мониторинга и парсинга отзывов с аналитикой**
 - Обновил и адаптировал вёрстку для существующего Laravel-backend; разрабатывал интерактивные компоненты на Vue.js и Vuex.
@@ -139,13 +139,13 @@ Senior Backend Developer с 6+ годами опыта разработки на
 
 **Обмен данными:** REST API, JSON:API, WebSocket, RabbitMQ
 
-**Инфраструктура:** Docker, Docker Compose, Docker Swarm, Laravel Octane (Swoole), Traefik, GitLab CI/CD, Linux, Nginx, Laravel Sail
+**Инфраструктура:** Docker, Docker Compose, Docker Swarm, Laravel Octane (Swoole), Traefik, GitLab CI/CD, Linux, Nginx, Laravel Sail, DevOps
 
 **Наблюдаемость:** Grafana, Prometheus, Loki, Zabbix, Sentry
 
 **Тестирование:** PHPUnit, End-to-End автотесты, k6, Postman, XDebug
 
-**Архитектура:** микросервисы, монолит, DDD, TDD, MVC, ООП, Twelve-Factor, проектирование систем
+**Архитектура:** микросервисы, монолит, DDD, TDD, MVC, ООП, SOLID, Twelve-Factor, проектирование систем
 
 **Лидерство:** декомпозиция и оценка задач, планирование спринтов, постановка задач, найм и онбординг, матрица компетенций, метрики команды, Jira (дашборды, автоматизация), работа с заказчиком, техническая документация
 
